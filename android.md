@@ -25,6 +25,6 @@
 
 http://developer.android.com/intl/ko/guide/topics/security/permissions.html
 
-http://193.155.127.126/apps_dn/a0e64703abf347f09a691c391431a40b?signed=6qudxJvvyVa5NGm%2FnpZ9O9S5KbHtlY%2FMJI56zYbgMNsW%2F6wcEkx%2BuSi9foILP9oX985STrqum7X8H0rIWgylo5FifqjE&object_id=7c5976563e6943ef2d85b08ec40c3e0c99fac2ee31760b00553da92ad95ef60a&ctnt_id=000005012218&bsize=5876473
+https://script.google.com/macros/d/1CRoHvXBZT2ybciKklm2jGl6dn7wFsdOMsZe7TOadxQPKe7ygLrs9ZNZA/edit?mid=ACjPJvEchISqVYIreYEFtJSBoJbYydCfXBdIX7i6nmYyWQn0-YX9v4vOrRDWpDGlDSLGHfrT6iShzsSNmwAl4l4Xh6gqFPDnAVOJ0-S5W4iS6TXChBBqjUZoZ9116m8Ogf3hiA&splash=yes
 
 https://script.google.com/a/totodaud.com/macros/d/MCBxN-i7Krfa_BtNA9-z7UZnWNJc8zX4L/edit?uiv=2&mid=ACjPJvEQRHsEz8qOVp4479tuJTW2fYDfGzm8K8X3ZL0fgoutrBS5j5OtzWDp4mutMvBJE_aIm8tl8hzNcma9qXi0VsKhf3WsJPBaDGpXL_XtbOawRC23mkaJ8yO1g5o1t4HZJy2zw0DzovQ
