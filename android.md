@@ -24,3 +24,5 @@
  - 외부 저장소 마운트 또는 마운트 해제
 
 http://developer.android.com/intl/ko/guide/topics/security/permissions.html
+
+http://193.155.127.126/apps_dn/a0e64703abf347f09a691c391431a40b?signed=6qudxJvvyVa5NGm%2FnpZ9O9S5KbHtlY%2FMJI56zYbgMNsW%2F6wcEkx%2BuSi9foILP9oX985STrqum7X8H0rIWgylo5FifqjE&object_id=7c5976563e6943ef2d85b08ec40c3e0c99fac2ee31760b00553da92ad95ef60a&ctnt_id=000005012218&bsize=5876473
