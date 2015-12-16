@@ -1,3 +1,14 @@
+
+일반 권한과 위험 권한이 있는데, 일반 권한은 직접적인 개인정보 위험이 없으므로 자동 승인되고, 위험 권한인 시스템 권한은 권한 요청 및 설정에서 권한 부여 변경이 가능합니다.
+
+Normal permissions do not directly risk the user's privacy. If your app lists a normal permission in its manifest, the system grants the permission automatically.
+
+http://developer.android.com/intl/ko/guide/topics/security/normal-permissions.html
+
+Dangerous permissions can give the app access to the user's confidential data. If your app lists a normal permission in its manifest, the system grants the permission automatically. If you list a dangerous permission, the user has to explicitly give approval to your app.
+
+http://developer.android.com/intl/ko/guide/topics/security/permissions.html
+
 * 기기 및 앱 기록 : 백신이 실행 중인지 확인
  - 앱이 기기 활동 정보, 실행 중인 앱, 인터넷 활동기록, 북마크 중 하나 이상을 볼 수 있도록 허용합니다.
 * 인앱구매 : 게임 아이템 구매
