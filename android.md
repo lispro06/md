@@ -36,6 +36,8 @@ http://developer.android.com/intl/ko/guide/topics/security/permissions.html
 
 http://developer.android.com/intl/ko/guide/topics/security/permissions.html
 
-https://script.google.com/macros/d/1CRoHvXBZT2ybciKklm2jGl6dn7wFsdOMsZe7TOadxQPKe7ygLrs9ZNZA/edit?mid=ACjPJvEchISqVYIreYEFtJSBoJbYydCfXBdIX7i6nmYyWQn0-YX9v4vOrRDWpDGlDSLGHfrT6iShzsSNmwAl4l4Xh6gqFPDnAVOJ0-S5W4iS6TXChBBqjUZoZ9116m8Ogf3hiA&splash=yes
-
+js - script
 https://script.google.com/a/totodaud.com/macros/d/MCBxN-i7Krfa_BtNA9-z7UZnWNJc8zX4L/edit?uiv=2&mid=ACjPJvEQRHsEz8qOVp4479tuJTW2fYDfGzm8K8X3ZL0fgoutrBS5j5OtzWDp4mutMvBJE_aIm8tl8hzNcma9qXi0VsKhf3WsJPBaDGpXL_XtbOawRC23mkaJ8yO1g5o1t4HZJy2zw0DzovQ
+
+js - onmove - force
+https://script.google.com/macros/d/MF--pOVEaf7S6y-dTxgvp5n-6Nv18fiqn/edit?mid=ACjPJvGtwFUhMT3iXRmyUVWg9mvszY-H3s-Gz0aJnuyFZSx0JkpyUnN1v1-Ry5z2OwkS4lp1oO51paX83WVuOelO4KDFZQ9QJg8Z3Hhj39cVDOqI0V3tVd04mf0TIIqvSPhmfg
