@@ -56,3 +56,30 @@ return eval(formula);
 }
 }
 ```
+
+5. 규칙 5
+ - 영역이 들어간 함수 중에 INDEX와 FILTER는 사용할 수 없으나, MATCH와 VLOOKUP 은 사용 가능하다.
+ 
+정확한 색인 방법에 대한 연구가 부족하여 명확한 이유를 작성하긴 어렵다.
+
+다중 조건 사용을 위해 QUERY 와 MATCH(CONCAT을 이용해 A와 B를 합쳐서 다중 조건 처리 시키는 편법이 있음) 사용이 가능하다.
+
+QUERY는 결과 배열을 출력하지만, MATCH는 결과 행만 반환하므로 MATCH를 이용할 경우 VLOOKUP을 이용해야 한다.
+
+데이터가 있는 영역 A2:D19에서 색인 값 F4:F를 QUERY와 MATCH를 이용해 찾는 방법이다.
+
+MATCH는 숫자를 반환하기 때문에 데이터 영역(A:D)에서 A 컬럼이 숫자여야 한다.
+
+```
+=ARRAYFORMULA(IFERROR(VLOOKUP(F4:F,QUERY(A2:D19,"SELECT C, D",0),2,0)))
+```
+
+```
+=ARRAYFORMULA(IFERROR(VLOOKUP(MATCH(F4:F,C1:C,0),A2:D19,4)))
+```
+
+
+## 결론
+1. ARRAYFORMULA 는 압축된 수식을 풀어서 행단위 연산이 가능하게 서술한다.
+2. VLOOUP이 엑셀이나 구글 스프레드시트에서나 필수 색인 함수이다.
+3. ARRAYFORMULA 는 함수가 아니라 햄수다.(e. g 감성의 갬성 표현과 유사한 언어 유희)
